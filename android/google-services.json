@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "378499737721",
+    "firebase_url": "https://galaxypilot-19c53-default-rtdb.firebaseio.com",
+    "project_id": "galaxypilot-19c53",
+    "storage_bucket": "galaxypilot-19c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378499737721:android:5d5b02a985aa3649450ca8",
+        "android_client_info": {
+          "package_name": "com.sanfi.galaxypilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_oZiUEaK7V02CIfgXHAm_kzutQOJyHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
