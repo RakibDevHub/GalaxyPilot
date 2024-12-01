@@ -10,13 +10,13 @@
       "client_info": {
         "mobilesdk_app_id": "1:378499737721:android:5d5b02a985aa3649450ca8",
         "android_client_info": {
-          "package_name": "com.sanfi.galaxypilot"
+          "package_name": "com.rakib.galaxypilot"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAW_oZiUEaK7V02CIfgXHAm_kzutQOJyHw"
+          "current_key": "Google_API_Key"
         }
       ],
       "services": {
